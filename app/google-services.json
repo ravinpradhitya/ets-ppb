@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "622929245607",
+    "project_id": "myits-classroom-2b9eb",
+    "storage_bucket": "myits-classroom-2b9eb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:622929245607:android:5b1ea10c7f87cfe8c43282",
+        "android_client_info": {
+          "package_name": "com.example.myitsclassroom"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCV41LNdozlsrSgXwTXmDgoOUL5M-JiDVA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
